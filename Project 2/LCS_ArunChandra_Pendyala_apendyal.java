@@ -99,7 +99,7 @@ public class LCS_ArunChandra_Pendyala_apendyal {
 			
 			
 		
-	//Implementation based on the slides	
+	//Implementation based on the slides of Prof. Shi Li	
 		
 	}
 	
